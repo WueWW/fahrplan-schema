@@ -10,6 +10,7 @@ Selbstverständlich sind die Daten
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) lizenziert.
 Du kannst also einfach alles damit machen :-)
 
+
 ## Aktuelles JSON Schema
 
 In diesem Repository findest du lediglich die JSON-Schema Datei:
@@ -24,8 +25,16 @@ Dieses Schema weicht in Details vom 2019-er Schema ab:
  * die Angabe einer `location` ist nun Pflicht
 
 
-## Errata
+## Fahrplan Feed 2020
 
+Der aktuelle Fahrplan Feed (für das Jahr 2020) kann jederzeit unter der Adresse
+https://backend.timetable.wueww.de/export/session.json abgerufen werden.
+
+Über das Ende der Wuerzburg Web Week 2020 hinaus wird nicht gewährleistet, dass
+unter der angegebenen Adresse die Fahrplandaten 2020 weiter abrufbar sind.
+
+
+## Errata
 
 Hinweise zum Feld `host.links.host`:
 
